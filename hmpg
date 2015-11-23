@@ -1,0 +1,147 @@
+
+<a<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Amber Seira</title>
+<link href="/~aseira/960.css" rel="stylesheet" type="text/css" />
+<link href="/~aseira/reset.css" rel="stylesheet" type="text/css" />
+<link href="/~aseira/text.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="container_16">
+
+
+													<!---begin navigation--->
+
+   
+ 
+    <div class="grid_16" id="">
+    	 <br /> 
+    	<a name="top"><img src="/~aseira/img/website_logo.png" /></a>
+        <br />
+        <br />
+      <p id="menu"> <a href="#516">V516</a> | <a href="#about">About</a> | <a href="#contact">Contact</a></p>
+  </div>
+    
+    
+    
+    
+
+    <!---div class="grid_1" id="">
+    	
+    </div>
+    <div class="grid_6">
+    </div>  
+  <div class="grid_1" id="">
+  		<p>About</p>
+  </div--->
+
+  <!--div class="grid_3" id="">
+  <p>&nbsp;</p>
+  </div-->
+    
+  <div class="grid_16" id=""> <p></p>
+  </div>
+    <div class="grid_16"> <img src="/~aseira/img/sonomacoast.jpg" />
+    </div>
+<div class="grid_16" id=""> <p></p>
+  </div>
+    
+    																<!--V516--> 
+     <div class="grid_15" id="">
+  		<a name="516"><h1>V516: Information Systems for Public Management</h1></a>
+        <p>Click on the links below to open the corresponding assignment.</p>
+	</div>
+     <div class="grid_1"><a href="#top"><strong>Top</strong></a>
+    </div>
+    
+     <div class="grid_4">
+        <ul>
+        	<li><a href="/~aseira/AmberSeira_HW1.pdf" target="_blank">Assignment One</a></li>
+            <li><a href="/~aseira/V516_HW2_AmberSeira.pdf" target="_blank">Assignment Two</a></li>
+            <li><a href="/~aseira/AmberSeira_HW3.pdf" target="_blank">Assignment Three</a></li>
+        </ul>
+  </div> 
+  	<div class="grid_4"> <ul>
+        	<li><a href="/~aseira/AmberSeira_HW4.pdf" target="_blank">Assignment Four</a></li>
+            <li><a href="/~aseira/AmberSeira_HW5.pdf" target=_blank">Assignment Five</a></li>
+            <li><a href="http://www.indiana.edu/~speav519/aseira/hw6-mainpage.php" target=_blank">Assignment Six</a></li>
+        </ul></div>
+    
+  	<div class="grid_7"><ul>
+        	<li><a href="/~aseira/AmberSeira_HW7.pdf" target=_blank">Assignment Seven</a></li>
+            	<li><a href="/~aseira/AmberSeira_HW8.pdf" target=_blank">Assignment Eight</a></li>
+            	<li>Assignment Nine</li>
+        </ul> </div>
+        
+    <div class="grid_16">
+    	<h5>Projects</h5>
+        <p>Click on the links below to view projects.</p>
+         <ul>
+        	<li>Excel Project</li>
+           	<li>Access Project</li>
+            	<li>GIS Project</li>
+            	<li>Research Paper</li>
+        </ul>
+    </div>
+
+  	<!--div class="grid_4"><ul>
+        	<li>Assignment One</li>
+            <li>Assignment Two</li>
+            <li>Assignment Three</li>
+        </ul>  </div-->
+    
+        
+    																<!--About-->
+      <div class="grid_16">
+      	<br />
+      </div>
+      <div class="grid_15" id="">
+   		<a name="about"><h1>About: Amber Seira</h1></a>
+      </div>
+       <div class="grid_1"><a href="#top"><strong>Top</strong></a>
+    </div>
+    
+      <div class="grid_8">
+        <p>I have combined passions in IT and equity advocacy. My experiences as a First Generation College graduate drives me to participate professionally in initiatives to increase education access and attainment rates for Hispanic and low income populations.					 		</p>
+		<p>In June 2014, I completed my Americorps year of service at the Boys and Girls Club at Lincoln St as the Education Technology Coordinator. Over the summer I interned at the Latino Economic Development Center as a Database Developer in Minneapolis. Past fellowships also include with the Columbus Foundation in Columbus, Ohio and the Hispanic-Serving Institutions Division at the U.S. Department of Education in Washington, DC.</p>
+		<p>I'm a Californian native, alumna of Ohio State, and an Information Systems and Nonprofit Management student at SPEA. You can catch me on the weekends tinkering with bicycles, training for half marathons, or spending all my spare funds to travel the country.</p>
+    </div>
+    <div class="grid_2">
+    	<br />
+    </div>
+    <div class="grid_6">
+    <img src="/~aseira/img/frenchquarter.jpg" />
+    </div>
+  
+  																	<!--Contact-->  
+    <div class="grid_16"><br /> <br /></div>
+    <div class="grid_15" id="">
+    	<a name="contact"><h1>Contact:</h1></a>
+    </div>
+    <div class="grid_1"><a href="#top"><strong>Top</strong></a>
+    </div>
+    
+    <div class="grid_6"><p></p></div>
+    <div class="grid_10">
+   	  <h4><a href="https://twitter.com/amber_seira" target="_blank">Twitter</a> | <a href="http://www.linkedin.com/pub/amber-seira/45/30b/96" target="_blank">LinkedIn</a> | Blog | <a href="mailto:aseira@indiana.edu">Email</a></h4>
+    </div> 
+    
+    																<!--Footer-->
+<div class="clear" id="clearfooter"> </div>
+    <div class="grid_11" id="footernavl">
+    	<p>Site Created by <a href="http://about.me/aseira">Amber Seira</a>  |  C. MMXIV</p>
+    </div>
+    <div class="grid_5" id="footernav">
+    	<p><a href="http://www.indiana.edu/~spea/">School of Public and Environmental Affairs</a> | <a href="http://www.iu.edu/">Indiana University</a></p>
+        <!--p><a href="index.html">Home</a>  |  <a href="info.html">Info</a>  |  <a href="events.html">Events</a>  |  <a href="contact.html">Contact</a></p-->
+    </div>
+
+</div>
+    
+    
+</div>
+</body>
+</html>
